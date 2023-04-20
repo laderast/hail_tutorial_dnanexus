@@ -2,8 +2,8 @@
 
 This repository is an adaptation of notebooks from DNAnexus' OpenBio. It abbreviates the process of working with Hail on the DNAnexus platform. It is divided into two sections:
 
-`01-Hail-Skills.ipynb` - Basic skills working with Hail Tables and MatrixTables
-`02-gwas-ipynb` - 
+- `01-Hail-Skills.ipynb` - Basic skills working with Hail Tables and MatrixTables
+- `02-gwas-ipynb` - The full GWAS process that starts with a stored MatrixTable in a DNAnexus database.
 
 ## DNAnexus Project
 
