@@ -9,6 +9,8 @@ This repository is an adaptation of notebooks from DNAnexus' OpenBio. It abbrevi
 
 There is an example project that has the relevant MatrixTable and Hail Tables stored in a DNAX database. This is not currently available. 
 
+All output is calculated on a Synthetic Patient Dataset (100K-UKB-synth-pheno-geno).
+
 ## As-Is Software Disclaimer
 
 This content in this repository is delivered "As-Is". Notwithstanding anything to the contrary, DNAnexus will have no warranty, support, liability or other obligations with respect to Materials provided hereunder.
