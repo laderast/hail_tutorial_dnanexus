@@ -1,6 +1,6 @@
 # Working with Hail on DNAnexus
 
-This repository is an adaptation of notebooks from DNAnexus' OpenBio. It abbreviates the process of working with Hail on the DNAnexus platform. It is divided into two sections:
+This repository is an adaptation of notebooks from DNAnexus' OpenBio Repository. It abbreviates the process of working with Hail on the DNAnexus platform. It is divided into two sections:
 
 - `01-Hail-Skills.ipynb` - Basic skills working with Hail Tables and MatrixTables
 - `02-gwas-ipynb` - The full GWAS process that starts with a stored MatrixTable in a DNAnexus database.
@@ -34,3 +34,4 @@ To upload a folder to your project, use CLI dx-toolbox command, `dx upload -r <f
 ```bash
 dx upload -r OpenBio
 ```
+d
