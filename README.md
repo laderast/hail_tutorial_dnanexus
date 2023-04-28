@@ -28,7 +28,7 @@ The cloning link may be found by clicking on the "Code" drop down menu in Github
 To upload a file to your project, use CLI dx-toolbox command, `dx upload <file_name>`.
 ```bash
 dx upload BGEN_import.ipynb
-```
+````
 
 To upload a folder to your project, use CLI dx-toolbox command, `dx upload -r <folder_name>`.
 ```bash
